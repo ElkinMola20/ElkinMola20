@@ -10,8 +10,8 @@
   <tr>
     <td valign="top" width="60%">
       <h2>👤 About Me</h2>
-      <p>Economist focused on <b>data analytics</b> and <b>machine learning</b>, with solid experience in applied research and economic analysis for the public sector. I specialize in process automation, data cleaning, and the consolidation of large datasets from multiple sources.</p>
-      <p>As an Economics Master's student, I combine my background in econometrics with technical skills for processing, modeling, and visualizing information. I excel at translating complex data into actionable insights and control dashboards to support evidence-based decision-making.</p>
+      <p>Economist focused on <b>data analytics</b> and <b>machine learning</b>, with solid experience in applied research and economic analysis for the public sector. I specialize in process automation, data cleaning, and the consolidation of large datasets from multiple sources. </p>
+      <p>As an Economics Master's student, I combine my background in econometrics with technical skills for processing, modeling, and visualizing information. I excel at translating complex data into actionable insights and control dashboards to support evidence-based decision-making. </p>
     </td>
     <td valign="top" width="40%">
       <h2>🛠️ Tech Stack</h2>
@@ -35,23 +35,15 @@
 ## 💼 Professional Experience
 
 ### 📊 Data Analyst | Superintendencia de la Economía Solidaria
-*🗓️ October 2023 - Present | 📍 Bogotá D.C. (Remote / On-site)*
-
-> **Workflow Automation:** Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics.<br/>
-> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera).<br/>
-> **Dashboard Design:** Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information.<br/>
-> **Reporting:** Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs.
-
-<br/>
+*🗓️ October 2023 - Present | 📍 Bogotá D.C. (Remote / On-site)* > **Workflow Automation:** Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics. <br/>
+> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera). <br/>
+> **Dashboard Design:** Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information. <br/>
+> **Reporting:** Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs. <br/>
 
 ### 🌾 Researcher | Gestión del Desarrollo Territorial Sostenible S.A.S.
-*🗓️ December 2022 - September 2023 | 📍 Santa Marta, Magdalena*
-
-> **Supply Chain Characterization:** Analyzed the socioeconomic environment and the supply of fruits and vegetables in Magdalena for a sustainable agriculture project.<br/>
-> **Instrument Design:** Created and structured technical tools for primary data collection in the field, ensuring methodological consistency.<br/>
-> **Financial Analysis:** Conducted financial modeling focused on project stakeholders and wrote reports that supported economic reactivation and food security plans.
-
----
+*🗓️ December 2022 - September 2023 | 📍 Santa Marta, Magdalena* > **Supply Chain Characterization:** Analyzed the socioeconomic environment and the supply of fruits and vegetables in Magdalena for a sustainable agriculture project. <br/>
+> **Instrument Design:** Created and structured technical tools for primary data collection in the field, ensuring methodological consistency. <br/>
+> **Financial Analysis:** Conducted financial modeling focused on project stakeholders and wrote reports that supported economic reactivation and food security plans. ---
 
 ## 🎓 Education & Expertise
 
@@ -87,4 +79,4 @@
 * 📍 Cali, Colombia
 * 📧 molaelkin1@gmail.com
 * 🎓 elkin.mola@u.icesi.edu.co
-* 💼 [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
+* <a href="https://www.linkedin.com/in/elkinmola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
