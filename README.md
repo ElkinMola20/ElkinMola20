@@ -39,6 +39,16 @@
 
 ---
 
+## 📝 Research & Publications
+
+> 💡 **Featured Working Papers & Technical Reports:**
+
+* 📄 **[Documento Técnico de Trabajo (DTS 001) - Supersolidaria](https://www.supersolidaria.gov.co/sites/default/files/gad_2024/20240612_dts_001.pdf)** *Supersolidaria (2024)* | Applied research and economic data processing focusing on the solidarity economy sector.
+
+*(Puedes duplicar la estructura del punto anterior agregando un asterisco `*` abajo si tienes más artículos o tesis que quieras listar en el futuro).*
+
+---
+
 <br/>
 
 <div align="center">
