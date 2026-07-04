@@ -4,18 +4,6 @@
 
 <br/>
 
-<div align="center">
-  <h2>📄 Download Resume / Descargar CV</h2>
-  <p>Click below to view and download the latest version of my CV directly from Overleaf (always up to date):</p>
-  <a href="https://www.overleaf.com/read/vtygdgymzfnm#996e50" target="_blank">
-    <img src="https://img.shields.io/badge/CV_Español-E44D26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV en Español"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.overleaf.com/read/npwhqtrybvpx#2e4256" target="_blank">
-    <img src="https://img.shields.io/badge/Resume_English-0052B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume in English"/>
-  </a>
-</div>
-
 ---
 
 <table>
@@ -100,3 +88,21 @@
 * 📧 molaelkin1@gmail.com
 * 🎓 elkin.mola@u.icesi.edu.co
 * <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="16" height="16" style="vertical-align: text-bottom; margin-right: 4px;" /> [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
+
+<br/>
+
+---
+
+<div align="center">
+  <h2>📄 Resumes / Hojas de Vida</h2>
+  <p><i>Click on the buttons below to open and download the most up-to-date version of my CV in a new tab.</i></p>
+  <br/>
+  <a href="https://www.overleaf.com/read/vtygdgymzfnm#996e50" target="_blank">
+    <img src="https://img.shields.io/badge/Descargar_CV_Español-E44D26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV en Español"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.overleaf.com/read/npwhqtrybvpx#2e4256" target="_blank">
+    <img src="https://img.shields.io/badge/Download_Resume_English-0052B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume in English"/>
+  </a>
+</div>
+<br/>
