@@ -84,10 +84,25 @@
 ---
 
 ## 📫 Contact
-* 📍 Cali, Colombia
-* 📧 molaelkin1@gmail.com
-* 🎓 elkin.mola@u.icesi.edu.co
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="16" height="16" style="vertical-align: text-bottom; margin-right: 4px;" /> [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3>📍 Cali, Colombia</h3>
+    </td>
+    <td width="50%">
+      <h3>📧 <a href="mailto:molaelkin1@gmail.com">molaelkin1@gmail.com</a></h3>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🎓 <a href="mailto:elkin.mola@u.icesi.edu.co">elkin.mola@u.icesi.edu.co</a></h3>
+    </td>
+    <td width="50%">
+      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="28" height="28" style="vertical-align: text-bottom; margin-right: 6px;" /><a href="https://www.linkedin.com/in/elkinmola/">linkedin.com/in/elkinmola</a></h3>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
