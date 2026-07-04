@@ -93,8 +93,11 @@
 
 ---
 
-## 📄 Resumes / Hojas de Vida
-
-| 🇪🇸 Español | 🇺🇸 English |
-| :---: | :---: |
-| [📥 **Descargar CV en PDF**](https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola.pdf) | [📥 **Download Resume in PDF**](https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola__English_.pdf) |
+<div align="center">
+  <h2>📄 Resumes / Hojas de Vida</h2>
+  <br/>
+  <a href="https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola.pdf"><b>📥 Descargar CV (Español)</b></a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola__English_.pdf"><b>📥 Download Resume (English)</b></a>
+</div>
+<br/>
