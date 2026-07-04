@@ -44,6 +44,7 @@
 > 💡 **Featured Working Papers & Technical Reports:**
 
 * 📄 **[Economía solidaria en cifras: Caracterización socioeconómica de un sector que transforma a Colombia](https://www.supersolidaria.gov.co/sites/default/files/gad_2024/20240612_dts_001.pdf)** | *Supersolidaria (2024)* - Applied research and economic data processing focusing on the solidarity economy sector.
+* 📄 **[Jóvenes en la economía Solidaria (2019-2023)](https://www.supersolidaria.gov.co/sites/default/files/gad_2024/20240612_ficha_jovenes.pdf)** | *Supersolidaria (2024)* - Statistical characterization and data analysis on youth participation within the solidarity sector.
 
 ---
 
