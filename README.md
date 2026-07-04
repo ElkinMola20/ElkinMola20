@@ -95,13 +95,13 @@
 
 <div align="center">
   <h2>📄 Resumes / Hojas de Vida</h2>
-  <p><i>Click on the buttons below to open and download the most up-to-date version of my CV in a new tab.</i></p>
+  <p><i>Click on the buttons below to instantly download my CV in PDF format.</i></p>
   <br/>
-  <a href="https://www.overleaf.com/read/vtygdgymzfnm#996e50" target="_blank">
+  <a href="https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola.pdf">
     <img src="https://img.shields.io/badge/Descargar_CV_Español-E44D26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Descargar CV en Español"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.overleaf.com/read/npwhqtrybvpx#2e4256" target="_blank">
+  <a href="https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola__English_.pdf">
     <img src="https://img.shields.io/badge/Download_Resume_English-0052B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume in English"/>
   </a>
 </div>
