@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Elkin%20Enoc%20Mola%20Vides&fontSize=45&fontAlignY=35&desc=Economist%20%7C%20Data%20Analyst&descAlignY=55&descAlign=50" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Elkin%20Enoc%20Mola%20Vides&fontSize=42&fontAlignY=35&desc=Economist%20%7C%20Data%20Analyst%20%7C%20Economics%20Master%27s%20Student&descAlignY=55&descAlign=50" alt="Header Banner"/>
 </div>
 
 <br/>
@@ -43,7 +43,7 @@
 *🗓️ October 2023 - Present | 📍 Bogotá D.C. (Remote / On-site)*
 
 > **Workflow Automation:** Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics.<br/>
-> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera) and georeferenced associated entities.<br/>
+> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera).<br/>
 > **Dashboard Design:** Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information.<br/>
 > **Reporting:** Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs.
 
@@ -79,19 +79,9 @@
             <li>Data Science & Analysis</li>
             <li>Machine Learning</li>
             <li>Predictive Analysis</li>
-            <li>Georeferencing</li>
           </ul>
         </li>
       </ul>
     </td>
   </tr>
 </table>
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=276DC3&text_color=333333&icon_color=276DC3" alt="GitHub Stats" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=transparent&hide_border=true&title_color=276DC3&text_color=333333" alt="Top Languages" height="160px"/>
-</div>
