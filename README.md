@@ -10,21 +10,21 @@
   <tr>
     <td valign="top" width="60%">
       <h2>👤 About Me</h2>
-      <h4>Economist focused on <b>data analytics</b> and <b>machine learning</b>, with solid experience in applied research and economic analysis for the public sector. I specialize in process automation, data cleaning, and the consolidation of large datasets from multiple sources.</h4>
-      <h4>As an Economics Master's student, I combine my background in econometrics with technical skills for processing, modeling, and visualizing information. I excel at translating complex data into actionable insights and control dashboards to support evidence-based decision-making.</h4>
+      <p>Economist focused on <b>data analytics</b> and <b>machine learning</b>, with solid experience in applied research and economic analysis for the public sector. I specialize in process automation, data cleaning, and the consolidation of large datasets from multiple sources.</p>
+      <p>As an Economics Master's student, I combine my background in econometrics with technical skills for processing, modeling, and visualizing information. I excel at translating complex data into actionable insights and control dashboards to support evidence-based decision-making.</p>
     </td>
     <td valign="top" width="40%">
       <h2>🛠️ Tech Stack</h2>
-      <h3>Programming & DB</h3>
+      <b>Programming & DB</b><br/>
       <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
       <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/>
       <br/><br/>
-      <h3>Dataviz & Reporting</h3>
+      <b>Dataviz & Reporting</b><br/>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/>
       <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
       <br/><br/>
-      <h3>Econometrics</h3>
+      <b>Econometrics</b><br/>
       <img src="https://img.shields.io/badge/STATA-4E629A?style=flat-square" alt="STATA"/>
     </td>
   </tr>
@@ -37,19 +37,19 @@
 ### 📊 Data Analyst | Superintendencia de la Economía Solidaria
 *🗓️ October 2023 - Present | 📍 Bogotá D.C. (Remote / On-site)*
 
-> <h4><b>Workflow Automation:</b> Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics.</h4>
-> <h4><b>Data Consolidation:</b> Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera).</h4>
-> <h4><b>Dashboard Design:</b> Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information.</h4>
-> <h4><b>Reporting:</b> Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs.</h4>
+> **Workflow Automation:** Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics.<br/>
+> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera).<br/>
+> **Dashboard Design:** Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information.<br/>
+> **Reporting:** Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs.
 
 <br/>
 
 ### 🌾 Researcher | Gestión del Desarrollo Territorial Sostenible S.A.S.
 *🗓️ December 2022 - September 2023 | 📍 Santa Marta, Magdalena*
 
-> <h4><b>Supply Chain Characterization:</b> Analyzed the socioeconomic environment and the supply of fruits and vegetables in Magdalena for a sustainable agriculture project.</h4>
-> <h4><b>Instrument Design:</b> Created and structured technical tools for primary data collection in the field, ensuring methodological consistency.</h4>
-> <h4><b>Financial Analysis:</b> Conducted financial modeling focused on project stakeholders and wrote reports that supported economic reactivation and food security plans.</h4>
+> **Supply Chain Characterization:** Analyzed the socioeconomic environment and the supply of fruits and vegetables in Magdalena for a sustainable agriculture project.<br/>
+> **Instrument Design:** Created and structured technical tools for primary data collection in the field, ensuring methodological consistency.<br/>
+> **Financial Analysis:** Conducted financial modeling focused on project stakeholders and wrote reports that supported economic reactivation and food security plans.
 
 ---
 
@@ -58,22 +58,22 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <h2>📚 Formal Education</h2>
+      <h3>📚 Formal Education</h3>
       <ul>
-        <li><h4><b>Master's Degree in Economics</b><br/>Universidad Icesi <i>(Aug 2025 - Present)</i></h4></li>
+        <li><b>Master's Degree in Economics</b><br/>Universidad Icesi <i>(Aug 2025 - Present)</i></li>
         <br/>
-        <li><h4><b>Economist (Bachelor's Degree)</b><br/>Universidad del Magdalena <i>(2017 - 2022)</i></h4></li>
+        <li><b>Economist (Bachelor's Degree)</b><br/>Universidad del Magdalena <i>(2017 - 2022)</i></li>
       </ul>
     </td>
     <td valign="top" width="50%">
-      <h2>🎯 Core Areas & Languages</h2>
+      <h3>🎯 Core Areas & Languages</h3>
       <ul>
-        <li><h4><b>Languages:</b> Spanish (Native), English (B2)</h4></li>
-        <li><h4><b>Areas of Expertise:</b></h4>
+        <li><b>Languages:</b> Spanish (Native), English (B2)</li>
+        <li><b>Areas of Expertise:</b>
           <ul>
-            <li><h4>Data Science & Analysis</h4></li>
-            <li><h4>Machine Learning</h4></li>
-            <li><h4>Predictive Analysis</h4></li>
+            <li>Data Science & Analysis</li>
+            <li>Machine Learning</li>
+            <li>Predictive Analysis</li>
           </ul>
         </li>
       </ul>
@@ -85,10 +85,10 @@
 
 ## 📫 Contact
 
-* <h4>📍 Cali, Colombia</h4>
-* <h4>📧 <a href="mailto:molaelkin1@gmail.com">molaelkin1@gmail.com</a></h4>
-* <h4>🎓 <a href="mailto:elkin.mola@u.icesi.edu.co">elkin.mola@u.icesi.edu.co</a></h4>
-* <h4><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="18" height="18" style="vertical-align: text-bottom; margin-right: 4px;" /> <a href="https://www.linkedin.com/in/elkinmola/">linkedin.com/in/elkinmola</a></h4>
+* 📍 Cali, Colombia
+* 📧 [molaelkin1@gmail.com](mailto:molaelkin1@gmail.com)
+* 🎓 [elkin.mola@u.icesi.edu.co](mailto:elkin.mola@u.icesi.edu.co)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="16" height="16" style="vertical-align: text-bottom; margin-right: 4px;" /> [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
 
 <br/>
 
