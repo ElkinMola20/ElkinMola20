@@ -81,15 +81,6 @@
   </tr>
 </table>
 
----
-
-## 📫 Contact
-
-* 📍 Cali, Colombia
-* 📧 [molaelkin1@gmail.com](mailto:molaelkin1@gmail.com)
-* 🎓 [elkin.mola@u.icesi.edu.co](mailto:elkin.mola@u.icesi.edu.co)
-* <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="16" height="16" style="vertical-align: text-bottom; margin-right: 4px;" /> [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
-
 <br/>
 
 ---
