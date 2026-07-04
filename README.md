@@ -85,34 +85,18 @@
 
 ## 📫 Contact
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3>📍 Cali, Colombia</h3>
-    </td>
-    <td width="50%">
-      <h3>📧 <a href="mailto:molaelkin1@gmail.com">molaelkin1@gmail.com</a></h3>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>🎓 <a href="mailto:elkin.mola@u.icesi.edu.co">elkin.mola@u.icesi.edu.co</a></h3>
-    </td>
-    <td width="50%">
-      <h3><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="28" height="28" style="vertical-align: text-bottom; margin-right: 6px;" /><a href="https://www.linkedin.com/in/elkinmola/">linkedin.com/in/elkinmola</a></h3>
-    </td>
-  </tr>
-</table>
+* 📍 Cali, Colombia
+* 📧 [molaelkin1@gmail.com](mailto:molaelkin1@gmail.com)
+* 🎓 [elkin.mola@u.icesi.edu.co](mailto:elkin.mola@u.icesi.edu.co)
+* <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="16" height="16" style="vertical-align: text-bottom; margin-right: 4px;" /> [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
 
 <br/>
 
 ---
 
-<div align="center">
-  <h2>📄 Resumes / Hojas de Vida</h2>
-  <br/>
-  <a href="https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola.pdf"><b>📥 Descargar CV (Español)</b></a>
-  &nbsp;&nbsp;|&nbsp;&nbsp;
-  <a href="https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola__English_.pdf"><b>📥 Download Resume (English)</b></a>
-</div>
+## 📄 Resumes / Hojas de Vida
+
+> 💡 **Looking for my full CV?** Download the PDF versions here:<br/><br/>
+> 🇪🇸 **[Descargar CV (Español)](https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola.pdf)** &nbsp;&nbsp; | &nbsp;&nbsp; 🇺🇸 **[Download Resume (English)](https://github.com/ElkinMola20/Resumes/raw/main/CV_Elkin_Mola__English_.pdf)**
+
 <br/>
