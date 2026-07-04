@@ -4,14 +4,26 @@
 
 <br/>
 
+<div align="center">
+  <h2>📄 Download Resume / Descargar CV</h2>
+  <p>Click below to view and download the latest version of my CV directly from Overleaf (always up to date):</p>
+  <a href="https://www.overleaf.com/read/vtygdgymzfnm#996e50" target="_blank">
+    <img src="https://img.shields.io/badge/CV_Español-E44D26?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="CV en Español"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.overleaf.com/read/npwhqtrybvpx#2e4256" target="_blank">
+    <img src="https://img.shields.io/badge/Resume_English-0052B4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume in English"/>
+  </a>
+</div>
+
 ---
 
 <table>
   <tr>
     <td valign="top" width="60%">
       <h2>👤 About Me</h2>
-      <p>Economist focused on <b>data analytics</b> and <b>machine learning</b>, with solid experience in applied research and economic analysis for the public sector. I specialize in process automation, data cleaning, and the consolidation of large datasets from multiple sources. </p>
-      <p>As an Economics Master's student, I combine my background in econometrics with technical skills for processing, modeling, and visualizing information. I excel at translating complex data into actionable insights and control dashboards to support evidence-based decision-making. </p>
+      <p>Economist focused on <b>data analytics</b> and <b>machine learning</b>, with solid experience in applied research and economic analysis for the public sector. I specialize in process automation, data cleaning, and the consolidation of large datasets from multiple sources.</p>
+      <p>As an Economics Master's student, I combine my background in econometrics with technical skills for processing, modeling, and visualizing information. I excel at translating complex data into actionable insights and control dashboards to support evidence-based decision-making.</p>
     </td>
     <td valign="top" width="40%">
       <h2>🛠️ Tech Stack</h2>
@@ -35,15 +47,23 @@
 ## 💼 Professional Experience
 
 ### 📊 Data Analyst | Superintendencia de la Economía Solidaria
-*🗓️ October 2023 - Present | 📍 Bogotá D.C. (Remote / On-site)* > **Workflow Automation:** Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics. <br/>
-> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera). <br/>
-> **Dashboard Design:** Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information. <br/>
-> **Reporting:** Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs. <br/>
+*🗓️ October 2023 - Present | 📍 Bogotá D.C. (Remote / On-site)*
+
+> **Workflow Automation:** Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics.<br/>
+> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera).<br/>
+> **Dashboard Design:** Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information.<br/>
+> **Reporting:** Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs.
+
+<br/>
 
 ### 🌾 Researcher | Gestión del Desarrollo Territorial Sostenible S.A.S.
-*🗓️ December 2022 - September 2023 | 📍 Santa Marta, Magdalena* > **Supply Chain Characterization:** Analyzed the socioeconomic environment and the supply of fruits and vegetables in Magdalena for a sustainable agriculture project. <br/>
-> **Instrument Design:** Created and structured technical tools for primary data collection in the field, ensuring methodological consistency. <br/>
-> **Financial Analysis:** Conducted financial modeling focused on project stakeholders and wrote reports that supported economic reactivation and food security plans. ---
+*🗓️ December 2022 - September 2023 | 📍 Santa Marta, Magdalena*
+
+> **Supply Chain Characterization:** Analyzed the socioeconomic environment and the supply of fruits and vegetables in Magdalena for a sustainable agriculture project.<br/>
+> **Instrument Design:** Created and structured technical tools for primary data collection in the field, ensuring methodological consistency.<br/>
+> **Financial Analysis:** Conducted financial modeling focused on project stakeholders and wrote reports that supported economic reactivation and food security plans.
+
+---
 
 ## 🎓 Education & Expertise
 
