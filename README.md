@@ -79,4 +79,4 @@
 * 📍 Cali, Colombia
 * 📧 molaelkin1@gmail.com
 * 🎓 elkin.mola@u.icesi.edu.co
-* <a href="https://www.linkedin.com/in/elkinmola/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+* <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0077B5&color=0077B5" alt="LinkedIn Logo" width="20" height="20" /> [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
