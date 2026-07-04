@@ -83,12 +83,8 @@
 
 ---
 
-<br />
-<div align="center">
-  <p>
-    📍 Cali, Colombia &nbsp;&nbsp;|&nbsp;&nbsp; 
-    ✉️ <a href="mailto:molaelkin1@gmail.com">molaelkin1@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-    💼 <a href="https://www.linkedin.com/in/elkinmola/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
-    🐙 <a href="https://github.com/elkinmola">GitHub</a>
-  </p>
-</div>
+## 📫 Contact
+* **City:** Cali, Colombia
+* **Personal Email:** molaelkin1@gmail.com
+* **Institutional Email:** elkin.mola@u.icesi.edu.co
+* **LinkedIn:** [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
