@@ -41,7 +41,7 @@
 <br/>
 
 <div align="center">
-  <h2>📄 Resumes / Hojas de Vida</h2>
+  <h2>📄 Resume / Hojas de Vida</h2>
   <p>💡 <b>Want to know more about my professional experience and education?</b><br/>Download the full PDF versions of my CV here:</p>
   <br/>
   
