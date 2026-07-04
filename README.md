@@ -28,7 +28,8 @@
       <img src="https://img.shields.io/badge/STATA-4E629A?style=flat-square" alt="STATA"/>
       <br/><br/>
       <b>Core Expertise:</b><br/>
-      Data Science | Machine Learning | Predictive Analysis
+      Data Science | Machine Learning | Predictive Analysis <br/>
+      Applied Economics | Econometrics | Economic Modeling
       <br/><br/>
       <b>Languages:</b><br/>
       Spanish (Native) | English (B2)
@@ -41,7 +42,7 @@
 <br/>
 
 <div align="center">
-  <h2>📄 Resume / Hojas de Vida</h2>
+  <h2>📄 Resumes / Hojas de Vida</h2>
   <p>💡 <b>Want to know more about my professional experience and education?</b><br/>Download the full PDF versions of my CV here:</p>
   <br/>
   
