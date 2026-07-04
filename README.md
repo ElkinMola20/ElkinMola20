@@ -14,7 +14,7 @@
       <p>As an Economics Master's student, I combine my background in econometrics with technical skills for processing, modeling, and visualizing information. I excel at translating complex data into actionable insights and control dashboards to support evidence-based decision-making.</p>
     </td>
     <td valign="top" width="40%">
-      <h2>🛠️ Tech Stack</h2>
+      <h2>🛠️ Tech Stack & Skills</h2>
       <b>Programming & DB</b><br/>
       <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
@@ -26,68 +26,26 @@
       <br/><br/>
       <b>Econometrics</b><br/>
       <img src="https://img.shields.io/badge/STATA-4E629A?style=flat-square" alt="STATA"/>
+      <br/><br/>
+      <b>Core Expertise:</b><br/>
+      Data Science | Machine Learning | Predictive Analysis
+      <br/><br/>
+      <b>Languages:</b><br/>
+      Spanish (Native) | English (B2)
     </td>
   </tr>
 </table>
 
 ---
 
-## 💼 Professional Experience
-
-### 📊 Data Analyst | Superintendencia de la Economía Solidaria
-*🗓️ October 2023 - Present | 📍 Bogotá D.C. (Remote / On-site)*
-
-> **Workflow Automation:** Developed scripts and automated data processing in R, ensuring the replicability of institutional statistics.<br/>
-> **Data Consolidation:** Integrated massive datasets by merging multiple sources (IPM, Census, IDEAM, RUES, Superfinanciera).<br/>
-> **Dashboard Design:** Implemented control dashboards in Power BI, optimizing the visualization of strategic metrics and the delivery of official statistical information.<br/>
-> **Reporting:** Automated the production of technical reports using Markdown format, significantly reducing delivery times for analytical inputs.
-
 <br/>
 
-### 🌾 Researcher | Gestión del Desarrollo Territorial Sostenible S.A.S.
-*🗓️ December 2022 - September 2023 | 📍 Santa Marta, Magdalena*
-
-> **Supply Chain Characterization:** Analyzed the socioeconomic environment and the supply of fruits and vegetables in Magdalena for a sustainable agriculture project.<br/>
-> **Instrument Design:** Created and structured technical tools for primary data collection in the field, ensuring methodological consistency.<br/>
-> **Financial Analysis:** Conducted financial modeling focused on project stakeholders and wrote reports that supported economic reactivation and food security plans.
-
----
-
-## 🎓 Education & Expertise
-
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>📚 Formal Education</h3>
-      <ul>
-        <li><b>Master's Degree in Economics</b><br/>Universidad Icesi <i>(Aug 2025 - Present)</i></li>
-        <br/>
-        <li><b>Economist (Bachelor's Degree)</b><br/>Universidad del Magdalena <i>(2017 - 2022)</i></li>
-      </ul>
-    </td>
-    <td valign="top" width="50%">
-      <h3>🎯 Core Areas & Languages</h3>
-      <ul>
-        <li><b>Languages:</b> Spanish (Native), English (B2)</li>
-        <li><b>Areas of Expertise:</b>
-          <ul>
-            <li>Data Science & Analysis</li>
-            <li>Machine Learning</li>
-            <li>Predictive Analysis</li>
-          </ul>
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
----
-
-## 📄 Resumes / Hojas de Vida
-
-> 💡 **Looking for my full CV?** Download the PDF versions here:<br/><br/>
-> 🇪🇸 **[Descargar CV (Español)](https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf)** &nbsp;&nbsp; | &nbsp;&nbsp; 🇺🇸 **[Download Resume (English)](https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf)**
+<div align="center">
+  <h2>📄 Resumes / Hojas de Vida</h2>
+  <p>💡 <b>Want to know more about my professional experience and education?</b><br/>Download the full PDF versions of my CV here:</p>
+  <br/>
+  
+  🇪🇸 <b><a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola.pdf">Descargar CV (Español)</a></b> &nbsp;&nbsp; | &nbsp;&nbsp; 🇺🇸 <b><a href="https://github.com/eemola/Resumes/raw/main/CV_Elkin_Mola__English_.pdf">Download Resume (English)</a></b>
+</div>
 
 <br/>
