@@ -24,41 +24,24 @@ As an Economics Master's student, I combine my background in econometrics with t
 
 <br/>
 
-## 🛠️ Technical Skills & Languages
+## 🛠️ Tech Stack & Skills
 
-### 💻 Coding Skills
-<table>
-  <tr>
-    <td><b>R (Advanced)</b></td>
-    <td><img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/></td>
-    <td>████████████████▒▒▒▒ 80%</td>
-  </tr>
-  <tr>
-    <td><b>Markdown (Advanced)</b></td>
-    <td><img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/></td>
-    <td>████████████████▒▒▒▒ 80%</td>
-  </tr>
-  <tr>
-    <td><b>Power BI (Intermediate)</b></td>
-    <td><img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI"/></td>
-    <td>████████████▒▒▒▒▒▒▒▒ 60%</td>
-  </tr>
-  <tr>
-    <td><b>SQL (Intermediate)</b></td>
-    <td><img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white" alt="SQL"/></td>
-    <td>████████████▒▒▒▒▒▒▒▒ 60%</td>
-  </tr>
-  <tr>
-    <td><b>STATA (Intermediate)</b></td>
-    <td><img src="https://img.shields.io/badge/STATA-4E629A?style=flat-square" alt="STATA"/></td>
-    <td>████████████▒▒▒▒▒▒▒▒ 60%</td>
-  </tr>
-  <tr>
-    <td><b>Python (Basic)</b></td>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/></td>
-    <td>████████▒▒▒▒▒▒▒▒▒▒▒▒ 40%</td>
-  </tr>
-</table>
+### 💻 Tools & Technologies
+
+**Programming & Databases**<br/>
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL"/>
+<br/><br/>
+
+**Data Visualization & Reporting**<br/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+<br/><br/>
+
+**Econometrics & Statistics**<br/>
+<img src="https://img.shields.io/badge/STATA-4E629A?style=for-the-badge" alt="STATA"/>
+<br/><br/>
 
 ### 🎯 Areas of Expertise
 `Data Analysis` &nbsp;&middot;&nbsp; `Data Science` &nbsp;&middot;&nbsp; `Machine Learning` &nbsp;&middot;&nbsp; `Predictive Analysis` &nbsp;&middot;&nbsp; `Georeferencing`
@@ -125,9 +108,4 @@ As an Economics Master's student, I combine my background in econometrics with t
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=nord&count_private=true" alt="GitHub Stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=nord" alt="Top Languages" height="180px"/>
-</div>
-
----
-<div align="center">
-  <sub>Designed with ❤️ by Elkin Enoc Mola Vides. Feel free to contact me to collaborate on Data Science or Economics projects!</sub>
 </div>
