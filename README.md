@@ -83,9 +83,12 @@
 
 ---
 
+<br />
 <div align="center">
-  <h2>📫 Contact Me</h2>
-  <p>📍 Cali, Colombia</p>
-  <a href="mailto:molaelkin1@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/elkinmola/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <p>
+    📍 Cali, Colombia &nbsp;&nbsp;|&nbsp;&nbsp; 
+    ✉️ <a href="mailto:molaelkin1@gmail.com">molaelkin1@gmail.com</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+    💼 <a href="https://www.linkedin.com/in/elkinmola/">LinkedIn</a> &nbsp;&nbsp;|&nbsp;&nbsp; 
+    🐙 <a href="https://github.com/elkinmola">GitHub</a>
+  </p>
 </div>
