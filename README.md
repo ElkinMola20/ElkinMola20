@@ -84,7 +84,7 @@
 ---
 
 ## 📫 Contact
-* **City:** Cali, Colombia
-* **Personal Email:** molaelkin1@gmail.com
-* **Institutional Email:** elkin.mola@u.icesi.edu.co
-* **LinkedIn:** [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
+* 📍 Cali, Colombia
+* 📧 molaelkin1@gmail.com
+* 🎓 elkin.mola@u.icesi.edu.co
+* 💼 [linkedin.com/in/elkinmola](https://www.linkedin.com/in/elkinmola/)
